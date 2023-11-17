@@ -1,0 +1,150 @@
+#title{
+    background-color: #98c9c9;
+    padding: 2% 15%;
+    color: #fff;
+    text-align: left;
+}
+h1{
+    font-family:'montseerat-black';
+    line-height: 1.5;
+    font-size: 3rem;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: "montserrat-bold";
+}
+body{
+    font-family:' motserrat';
+    text-align: center;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    background-color: #16171a;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'montserrat-light';
+}
+#features{
+    padding: 7% 15%;
+    position: relative;
+}
+.feature-box{
+    text-align: center;
+    padding: 4.5%;
+}
+h3{
+    font-family: 'montserrat-bold'; 
+    font-size: 1.5rem;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #1d1a19;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:#8f8f8f ;
+}
+#testimonials{
+    text-align: left;
+    background-color: #98c9c9;
+    color: #fff;
+    margin: 3% 10% 0 10% ;
+}
+.testimonials-image{
+    width: 10%;
+    margin: 20px;
+    border-radius: 100%;
+}
+.press-logo{
+    
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#press{
+    padding-bottom: 3%;
+    background-color:#98c9c9;
+    text-align: left;
+    margin: 0 10% 3% 10%;
+}
+.crousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    color: #578d8d;
+    text-align: center;
+}
+.price_text{
+    font-size: 3rem;
+    line-height: 1.5rem;
+}
+.iphonex{
+    transform:rotate(25deg);
+    height: 600px;
+    width: 250px;
+    padding-top: 35px;
+    height:500px ;
+    right: 30%;
+}
+.pricing-column{
+    padding: 3% 2%;
+}   
+/* 
+#features{}
+ */
+title .container-fluid{
+    padding: 3% 15% 7%;
+}
+@media (max-width:800px){
+    #title{
+        text-align: center;
+    }
+    .iphonex{
+        transform: none;
+        position:static;
+    }
+}
+.a-heading{
+font-family:" montserrat-black";
+font-size: 3.5rem;
+line-height: 1.5;
+}
+.b-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.container-fluid{
+    padding: 7% 15%;
+}
+.feature-title{
+    font-size: 1.5rem;
+}
+#cta{
+color:#578d8d;
+margin-bottom: 0;
+}
+#footer{
+margin-top: 0;
+}
+.colored-section{
+  
+}
+.white-section{
+
+
+}
+
+
